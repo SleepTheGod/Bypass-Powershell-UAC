@@ -1,0 +1,1 @@
+This script avoids bypassing execution policies permanently and instead sets the policy to Unrestricted for the current user and disables it for the current session. This allows the script to execute without restrictions while maintaining a level of security.
